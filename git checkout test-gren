@@ -1,0 +1,58 @@
+[33mcommit f4c4ad9df4eaafc0fd38337d5e484268a3fa62f3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtest-gren[m[33m)[m
+Merge: 9db5ed0 209915b
+Author: sivert-svanes <siverss@uia.no>
+Date:   Tue Sep 3 00:07:24 2024 +0200
+
+    Merge branch 'main' of https://github.com/sivert-svanes/sivses-rep
+
+[33mcommit 9db5ed0431c38425663e314e6b17434fcf25ba5b[m
+Author: sivert-svanes <siverss@uia.no>
+Date:   Mon Sep 2 23:59:01 2024 +0200
+
+    Test 2
+
+[33mcommit 9b17286686f8224d54b5051a372a688d7fb619ae[m
+Merge: 2501909 e594bc8
+Author: sivert-svanes <siverss@uia.no>
+Date:   Mon Sep 2 23:51:37 2024 +0200
+
+    Merge branch 'feature-registrering'
+
+[33mcommit 209915b2d28c9255d5386df00f3d7186ab6fa568[m
+Merge: 2501909 e594bc8
+Author: sivert-svanes <sivertss@uia.no>
+Date:   Mon Sep 2 23:47:56 2024 +0200
+
+    Merge pull request #1 from sivert-svanes/feature-registrering
+    
+    la til test fil
+
+[33mcommit e594bc822b3842160790867ca8b84953da2ec6a3[m
+Author: sivert-svanes <siverss@uia.no>
+Date:   Mon Sep 2 23:46:27 2024 +0200
+
+    la til test fil
+
+[33mcommit 2501909c5da1b95d57de91ab8bfb07180b3da408[m
+Author: sivert-svanes <siverss@uia.no>
+Date:   Mon Sep 2 23:37:00 2024 +0200
+
+    Added details about the operating system and its version
+
+[33mcommit 8c79f22a2699556b4261ce64f2f1f5c1896321ab[m
+Author: sivert-svanes <sivertss@uia.no>
+Date:   Mon Sep 2 22:52:24 2024 +0200
+
+    Update README.md
+
+[33mcommit 29006962c8b42df7518cd51c76bf530e55fa82c7[m
+Author: sivert-svanes <sivertss@uia.no>
+Date:   Mon Sep 2 16:04:20 2024 +0200
+
+    Create README.md
+
+[33mcommit 0e8bd1bf5cc46e27e7e99a218e4e3880fa363077[m
+Author: sivert-svanes <sivertss@uia.no>
+Date:   Mon Sep 2 16:00:26 2024 +0200
+
+    Create LICENSE
